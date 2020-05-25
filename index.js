@@ -77,7 +77,7 @@ const { song_1, song_2, song_3, song_4 } = k_muppet.k_album.the_muppet_movie;
 
 // 8. Use destructuring to assign songs 2 and 4, and Kermit's job and partner
 
-const {Moving Right Along} = k_muppet.k_album.the_muppet_movie.song_2;
-const {Hope That SOmething Better Comes Along} = k_muppet.k_album.the_muppet_movie.song_4;
+const { Moving Right Along } = k_muppet.k_album.the_muppet_movie.song_2;
+const {Hope That Something Better Comes Along} = k_muppet.k_album.the_muppet_movie.song_4;
 const {Host of The Muppet Show} = k_muppet.k_job;
 const {Miss Piggy} = k_muppet.k_partner;
