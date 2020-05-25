@@ -36,7 +36,7 @@ console.log(r, o, y, g, b, v);
 
 // 6. But wait! Indigo is now feeling *super* left out. Let's only assign indigo using indg. 
 
-const [indg] = colors;
+const [red, ora, yel, gre, bl, indg, vi] = colors;
 console.log(indg); 
 
 
